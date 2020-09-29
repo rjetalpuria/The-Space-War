@@ -3,7 +3,7 @@ A remake of a retro game with dynamic visuals. The goal was to add as many dynam
 
 -> To try it out yourself download the **the_space_war.zip** and **run the_space_war.exe**. 
 
--> To tweak the code and run the **the_space_war.pde** file with [Processing](https://processing.org/)
+-> To tweak the code and run the **the_space_war.pde** file with [Processing](https://processing.org/).
 
 
 
