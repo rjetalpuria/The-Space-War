@@ -5,7 +5,7 @@ A remake of a retro game with dynamic visuals. The goal was to add as many dynam
 
 -> To tweak the code and run the **the_space_war.pde** file with [Processing](https://processing.org/).
 
-
+![Game Main Screen](https://github.com/rjetalpuria/The-Space-War/blob/master/Screenshots/the%20space%20war%20-2.png)
 
 ### Key controls: 
 
