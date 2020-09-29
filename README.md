@@ -19,7 +19,7 @@ A remake of a retro game with dynamic visuals. The goal was to add as many dynam
 
 
 
-Mouse controls:
+## Mouse controls:
 
 LEFT click the ‘start’ button to start or resume
 
@@ -27,7 +27,7 @@ While playing RIGHT click anywhere to pause
 
 
 
-====Dynamic Elements====
+## Dynamic Elements
 
 -> The enemy starts from the previous X- value of the player--ENEMY BEHAVIOR & CHARACTER
 
